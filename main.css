@@ -1,0 +1,35 @@
+.header{
+    background: #926FF6;
+
+}
+
+.navbar-brand{
+  color: #FFFFFF !important;
+  font-size: 18.05px;
+  font-weight: 800;
+}
+
+.nav-link{
+    color: #FFFFFF !important;
+}
+
+.agency{
+    color: yellow;
+    font-size: 12px;
+    text-align: center;
+}
+
+.HERO{
+    color:  white  !important;
+    text-align: center;
+}
+
+.the{
+color: #fff !important;
+text-align: center;
+font-size: 12px;
+}
+
+.div{
+   border: #FFFFFF 5px;
+}
