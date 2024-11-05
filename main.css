@@ -37,3 +37,29 @@
 .b1 {
     color: yellow;
 }
+ 
+.b6{
+    color: yellow;
+}
+
+.buttons button.active{
+background-color: #F3849F;
+border-radius: 20px;
+padding: 3px  30px;
+border: none;
+color:white;
+}
+     
+.buttons button{
+   border: none; 
+   color: #828282;
+   background: transparent;
+}
+
+.img-grid img{
+height: 350px;
+}
+
+.bacground{
+    background-color: #F7EEFF;
+}
